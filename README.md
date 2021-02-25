@@ -1,0 +1,2 @@
+# MIPS-algortihm
+DESCRIPTION OF ALGORITHM 
